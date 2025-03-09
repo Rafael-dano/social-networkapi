@@ -58,6 +58,7 @@ DELETE a reaction: http://localhost:3000/api/thoughts/:thoughtId/reactions/:reac
 
 ## Walk thru vid and pic
 Screen Recording 2025-03-09 at 2.51.00 PM.mov
+Screen Recording 2025-03-09 at 2.55.16 PM.mov
 
 
 ## License
