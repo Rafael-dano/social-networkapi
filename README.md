@@ -56,6 +56,9 @@ DELETE a thought: http://localhost:3000/api/thoughts/:thoughtId
 POST to add a reaction: http://localhost:3000/api/thoughts/:thoughtId/reactions
 DELETE a reaction: http://localhost:3000/api/thoughts/:thoughtId/reactions/:reactionId
 
+## Walk thru vid and pic
+Screen Recording 2025-03-09 at 2.51.00 PM.mov
+
 
 ## License
 
